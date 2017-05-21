@@ -1,0 +1,9 @@
+apply plugin: 'application'
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+mainClassName = 'net.ashraf.gradle.HelloWorld'
+
