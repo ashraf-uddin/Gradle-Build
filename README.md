@@ -1,6 +1,4 @@
-# Gradle-Build
 
-# Gradle-BuildDownload the GradleBuil file and keepit in home directory.
 There are two java application.
 1. Simple java application named "gradleJavaApp"
 2. Java web application named "gradleJavaWebApp"
